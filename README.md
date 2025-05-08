@@ -8,4 +8,4 @@ These are templates of any frameworks and languages.
 
 Licensed under the [MIT License](./LICENSE) .
 
-Copyright (C) よね/Yone
+Copyright &copy; よね/Yone
